@@ -1,4 +1,4 @@
-# Ruby on Rails Tutorial : Sample application
+# Ruby on Rails Tutorial : Sample Application
 
-練習中　サンプルアプリケーション
+too difficult for me...
 [*Ruby on Rails Tutorial:Learn Rails by Example*](http://railstutorial.jp/)
